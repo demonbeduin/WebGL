@@ -1,0 +1,78 @@
+fileFormatVersion: 2
+guid: e73252c9ba4b6a844a9d3df7a0d5fd17
+SpeedTreeImporter:
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark_LOD0
+    second: {fileID: 2100000, guid: 7de668ca291409542a980be45c66bc26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark_LOD1
+    second: {fileID: 2100000, guid: 0459c5a446aec08468e0a710128b0662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark_LOD2
+    second: {fileID: 2100000, guid: f2d3944bbbb8138488676c075e2faab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palm_LOD0
+    second: {fileID: 2100000, guid: b6a3819d461192d429b6502db21db56c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palm_LOD1
+    second: {fileID: 2100000, guid: f86fee87f975a1a428bc84aae0ce0ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palm_LOD2
+    second: {fileID: 2100000, guid: 084b201524b64b94da7183d5e3b1f31f, type: 2}
+  serializedVersion: 5
+  mainColor: {r: 1, g: 1, b: 1, a: 1}
+  hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
+  alphaTestRef: 0.33
+  bestWindQuality: 5
+  hasBillboard: 0
+  lODSettings:
+  - height: 0.5
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 1
+    enableSubsurface: 1
+    windQuality: 5
+  - height: 0.25
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 1
+    enableSubsurface: 1
+    windQuality: 5
+  - height: 0.01
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 1
+    enableSubsurface: 1
+    windQuality: 5
+  enableSmoothLODTransition: 1
+  animateCrossFading: 1
+  billboardTransitionCrossFadeWidth: 0.25
+  fadeOutWidth: 0.25
+  scaleFactor: 0.05
+  materialVersion: 3
+  materialLocation: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
