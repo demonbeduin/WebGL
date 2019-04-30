@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class MouseEvent : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class MouseEvent : MonoBehaviour
     private void OnMouseEnter()
     {
         print("mouse enter");
+        print(gameObject.name);
+        
     }
     private void OnMouseExit()
     {
@@ -20,6 +23,5 @@ public class MouseEvent : MonoBehaviour
     }
     void Update()
     {
-        
     }
 }
