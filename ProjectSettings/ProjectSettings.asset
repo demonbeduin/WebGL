@@ -618,10 +618,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 20818215-bbde-48f3-a11b-b3ec86a54aa2
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: WebGL
+  organizationId: unity_team_sad
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
